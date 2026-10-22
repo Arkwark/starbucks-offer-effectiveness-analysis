@@ -49,4 +49,5 @@ Starbucks отправляет клиентам в мобильное прило
 👉 [Посмотреть дашборд в DataLens](https://datalens.yandex/hpkx52wdb7d80?_share_link=public)
 
 ![Скриншот дашборда](reports/figures/dashboard.png)
+![Forest Plot](reports/figures/forest_plot.png)
 
