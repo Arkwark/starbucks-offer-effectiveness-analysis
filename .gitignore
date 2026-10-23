@@ -1,0 +1,14 @@
+# Environments
+venv
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+dataraw
+dataprocessed
+
+# OS
+.DS_Store
+Thumbs.db
