@@ -2,12 +2,9 @@
 venv
 .venv
 
-# Jupyter
-.ipynb_checkpoints
-
 # Data
-dataraw
-dataprocessed
+data/raw
+data/processed
 
 # OS
 .DS_Store
