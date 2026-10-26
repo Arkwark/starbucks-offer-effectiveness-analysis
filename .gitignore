@@ -12,3 +12,9 @@ dataprocessed
 # OS
 .DS_Store
 Thumbs.db
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
